@@ -3,4 +3,4 @@
 Welcome to my GitHub profile!  
 I'm currently exploring lightweight and minimalist web tools.
 
-🔗 Check out: [Shat Arabi Pro](https://arabic-pro.chat/)
+🔗 Check out: [شات عربي برو](https://arabic-pro.chat/)
